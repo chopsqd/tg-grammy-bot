@@ -1,0 +1,26 @@
+{
+  "name": "tg-grammy-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chopsqd/tg-grammy-bot.git"
+  },
+  "author": "Chopsqd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chopsqd/tg-grammy-bot/issues"
+  },
+  "homepage": "https://github.com/chopsqd/tg-grammy-bot#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "grammy": "^1.21.1",
+    "nodemon": "^3.1.0",
+    "random-js": "^2.1.0"
+  }
+}
